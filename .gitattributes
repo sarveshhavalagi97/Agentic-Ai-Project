@@ -1,0 +1,5 @@
+myenv/Lib/site-packages/faiss/*.pyd filter=lfs diff=lfs merge=lfs -text
+myenv/Lib/site-packages/faiss_cpu.libs/*.dll filter=lfs diff=lfs merge=lfs -text
+myenv/Lib/site-packages/numpy.libs/*.dll filter=lfs diff=lfs merge=lfs -text
+myenv/Lib/site-packages/pyarrow/*.dll filter=lfs diff=lfs merge=lfs -text
+myenv/Lib/site-packages/pydeck/nbextension/static/*.map filter=lfs diff=lfs merge=lfs -text
