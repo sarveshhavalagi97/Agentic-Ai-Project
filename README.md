@@ -1,21 +1,18 @@
-<<<<<<< HEAD
-# Agentic-Ai-Project
-=======
 ---
-title: LanggraphAgenticAI
-emoji: 🐨
-colorFrom: blue
-colorTo: red
-sdk: streamlit
-sdk_version: 1.42.0
+title: AgenticAI
+emoji: 🤖
+colorFrom: indigo
+colorTo: blue
+sdk: gradio
+sdk_version: "4.11.0"
 app_file: app.py
 pinned: false
-license: apache-2.0
-short_description: Refined langgraphAgenticAI
 ---
 
-### End To End Agentic AI Projects
+# AgenticAI
+An intelligent AI agent powered by cutting-edge LLM models and designed for dynamic interactions.
 
-The project is in development
-
->>>>>>> 1ef3983e (Initial commit)
+## Features
+- RAG with Weaviate DB
+- Enhanced conversational capabilities
+- Integrated with Hugging Face Spaces
